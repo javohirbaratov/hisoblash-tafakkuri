@@ -1,0 +1,36 @@
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.information_select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.information_select h1{
+    text-align: center;
+}
+.information_select > .menu{
+    display: grid;
+    row-gap: 1rem;
+    width: 400px;
+}
+.information_select > .menu > a.grid_item{
+    background-color: #dbf6ff8d;
+    text-align: center;
+    color: var(--dark-color);
+    border-radius: .3rem;
+    padding: 1rem;
+    transition: .3s all;
+}
+.information_select > .menu > a.grid_item:hover{
+    background-color: #bae9f98d;
+}
+.menu p {
+    font-weight: 300;
+}
+.menu p > span{
+    font-weight: bold;
+}

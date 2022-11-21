@@ -1,0 +1,170 @@
+.question{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.question_box{
+    padding: 1rem;
+    width: 700px;
+    border-radius: 1rem;
+    border: 1px solid #00CCB1;
+}
+.question_num{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: .3rem;
+    background-color: #00bbf9;
+    color: #fff;
+}
+.question_num span{
+ font-size: .8rem;
+}
+.question_text{
+    text-align: center;
+    font-size: var(--nav-name-font-size);
+}
+.answer{
+    
+    width: 100%;
+    padding: 0.5rem;
+    grid-template-columns: auto auto;
+    gap: .5rem;
+}
+.answer form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.answer form input{
+    width: 300px;
+}
+.answer_button{
+    margin-top: 1rem;
+    width: 300px;
+    font-size: var(--normal-font-size);
+    padding: .6rem;
+    color: var(--dark-color);
+    outline: none;
+    border: none;
+    border-radius: .3rem;
+    background-color: #dbf6ff8d;
+    transition: .4s all;
+    cursor: pointer;
+};
+.answer_button:hover{
+    background-color: #00bbf9 !important;
+}
+
+.show_container{
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #00bbf958;
+    z-index: var(--z-index);
+}
+.show_score{
+    padding: 2rem 1.5rem;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 1rem;
+}
+.trophy{
+    width: 200px;
+}
+.score_status{
+    font-size: var(--nav-name-font-size);
+}
+.score_ball{
+    font-size: var(--normal-font-size);
+}
+.reset_btn,.sertifikat_btn{
+    margin-top: 1rem;
+    width: 100%;
+    padding: 1rem;
+    font-size: var(--normal-font-size);
+    border: none;
+    background-color: #00bbf9;
+    color: #fff;
+    border-radius: 1.2rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: .3s all;
+}
+.reset_btn{
+    background-color: #00bbf9;
+}
+.sertifikat_btn{
+    border: 1px solid #00bbf9;
+    background-color: #fff;
+    color: #00bbf9;
+
+}
+.reset_btn:hover{
+    background-color: #04b3ed;
+}
+.sertifikat_btn:hover{
+    background-color: #f0f7f9;
+}
+
+.sertificate{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.input_name{
+    margin: 1rem;
+    width: 100%;
+    height: 30px;
+    border-radius: .5rem;
+    border: 1px solid #00bbf99d;
+    outline: none;
+    padding: .3rem;
+}
+.input_name:focus{
+    border: 1px solid #00bbf9;
+}
+.tests_imeges{
+    position: absolute;
+    width: 100px;
+    bottom: 0;
+    right: 0;
+}
+#sertificate1,#sertificate2{
+    position: relative;
+}
+.sertifikat{
+    width: 500px;
+    /* display: none; */
+}
+.serteficate_name{
+    margin: 0;
+    font-weight: 200;
+    position: absolute;
+    left: 180px;
+    top: 175px;
+}
+
+.mantiqiy_in{
+    border: 1px solid black;
+    border-radius: .7rem;
+    font-size: var(--normal-font-size);
+    padding: 0.4rem;
+    outline: none;
+}
+.man-btn{
+    background-color: #29f837;
+    color: white;
+}

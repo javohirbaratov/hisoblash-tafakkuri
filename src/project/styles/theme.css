@@ -1,0 +1,18 @@
+.table{
+    gap: 1rem;
+    padding: 1rem;
+}
+.table > .title{
+    text-align: center;
+}
+.table-item{
+    border-radius: .75rem;
+    padding: .5rem 1rem;
+    background-color: #7ddafb2f;
+    font-size: var(--normal-font-size);
+    color: var(--dark-color);
+    transition: all .5s;
+}
+.table-item:hover{
+    background-color: #57cffb56;
+}

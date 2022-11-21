@@ -1,0 +1,425 @@
+[
+    {
+        "savol" : "Bir qurbaqa 30 m quduqdan kunduz 3 metr yuqoriga, kechalari 2 metr pastga harakat etsa, quduqdan necha kunda chiqadi ?",
+        "variantlar":[
+            {"variant":"28 kun","num" :1 ,"isCorrect": true},
+            {"variant":"25 kun","num" :2 ,"isCorrect": false},
+            {"variant":"15 kun","num" :3 ,"isCorrect": false},
+            {"variant":"30 kun","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Yo’lda ketma-ket qator qilib 10 ta ustun o’rnatilgan. Har bir ustundan keyingisigacha bo’lgan masofa 10 metrdan. Sportchi 1-ustundan 10-ustungacha yetib bordi va yana 1- ustunga qaytib keldi. Sportchi qancha yo’l bosgan?",
+        "variantlar":[
+            {"variant":"180 metr","num" :1 ,"isCorrect": true},
+            {"variant":"171  metr","num" :2 ,"isCorrect": false},
+            {"variant":"190 metr","num" :3 ,"isCorrect": false},
+            {"variant":"80 metr","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "12 ta odam bir-biri bilan salomlashganda salomlar soni nechta bo’ladi? (Bitta odamga ikki martta salom berish va o’ziga-o’zi salom berish yo’q)",
+        "variantlar":[
+            {"variant":"60","num" :1 ,"isCorrect": false},
+            {"variant":"90","num" :2 ,"isCorrect": false},
+            {"variant":"65","num" :3 ,"isCorrect": false},
+            {"variant":"66","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "1; 3; 4 va  6 sonlaridan foydalanib 24 sonini hosil qiling. 24 ni hosil qilishda faqat to‘rttagina arifmetik amallardan foydalanishga ruxsat beriladi. Ildiz olish, darajaga ko‘tarish mumkin emas. Masalan 6:(1-3:4) = 24",
+        "variantlar":[
+            {"variant":"24","num" :1 ,"isCorrect": true},
+            {"variant":"34","num" :2 ,"isCorrect": false},
+            {"variant":"44","num" :3 ,"isCorrect": false},
+            {"variant":"22","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Zafar kitob o'qiganda kitob sahifalarining raqamlariga e'tibor berib boradi. U hozir o'qiyotgan kitobning shu sahifasidan boshlab oldingi sahifalarda 0 raqami 9 marta, 9 raqami esa aynan 17 marta qatnashganligini payqab qoldi. U hozir kitobning nechanchi sahifani o'qiyotgan edi?",
+        "variantlar":[
+            {"variant":"96","num" :1 ,"isCorrect": false},
+            {"variant":"97","num" :2 ,"isCorrect": true},
+            {"variant":"94","num" :3 ,"isCorrect": false},
+            {"variant":"66","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Daraxtning 4 ta shoxi bor, har bir shohda yana 4 ta shoxchalari bor, bu shohchalar ham yana   4 tadan mayda shohchalarga bo’lingan va ularning  har birida bittadan olma bor, barcha olmalar sonini hisoblang.",
+        "variantlar":[
+            {"variant":"16","num" :1 ,"isCorrect": false},
+            {"variant":"32","num" :2 ,"isCorrect": false},
+            {"variant":"64","num" :3 ,"isCorrect": true},
+            {"variant":"128","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Men bir son o’yladim. Uning yarmiga chorakni qo’shsak, 18 hosil bo’ladi.savol Men qanday son o’ylabman?",
+        "variantlar":[
+            {"variant":"34","num" :1 ,"isCorrect": false},
+            {"variant":"14","num" :2 ,"isCorrect": false},
+            {"variant":"26","num" :3 ,"isCorrect": false},
+            {"variant":"24","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Avtobusda 15 talaba ketayotgan edi. Birinchi bekatda  3 talaba avtobusga chiqdi, keying bekatda 2 ta talaba tushib qoldi, 4 talaba chiqdi, keying bekatda 4 talaba tushib, 7 talaba chiqdi, keying bekatda esa 1 talaba tushib, 6 talaba chiqdi.Avtobus necha bekat yurdi ?  ",
+        "variantlar":[
+            {"variant":"4","num" :1 ,"isCorrect": true},
+            {"variant":"6","num" :2 ,"isCorrect": false},
+            {"variant":"3","num" :3 ,"isCorrect": false},
+            {"variant":"5","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : " Kompyuterga 5 xonali sondan iborat parol qo’yilgan.Bu parolni ochish uchun  necha xil variyantda son terish kerak?",
+        "variantlar":[
+            {"variant":"11111","num" :1 ,"isCorrect": false},
+            {"variant":"99999","num" :2 ,"isCorrect": true},
+            {"variant":"88888","num" :3 ,"isCorrect": false},
+            {"variant":"66666","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "1 dan 100 gacha bo`lgan sonlarni yozishda 4 raqami necha marta ishlatiladi? ",
+        "variantlar":[
+            {"variant":"21","num" :1 ,"isCorrect": false},
+            {"variant":"20","num" :2 ,"isCorrect": false},
+            {"variant":"19","num" :3 ,"isCorrect": true},
+            {"variant":"10","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : " Bolalar tortni teng  6 ta bo’lakka bo’lishdi, keyin 3 ta bo’lakning har birini yana teng 3 bo’lakka bo’lishdi. Vali 2 ta katta va 2 ta kichik bo’lakni, Kozim 1 ta katta va 2 ta kichik bo’lakni olishdi. Qolgan bo’laklarni Ali olgan bo’lsa, ularning qaysi biriga ko’proq tort ulushi tekkan? ",
+        "variantlar":[
+            {"variant":"60","num" :1 ,"isCorrect": false},
+            {"variant":"90","num" :2 ,"isCorrect": false},
+            {"variant":"65","num" :3 ,"isCorrect": false},
+            {"variant":"66","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "To‘rtta sonning yig‘indisi 161 ga teng. Ulardan dastlabki uchtasi 4, 5 va 8 sonlariga to‘g‘ri proporsional ikkinchi va to‘rtinchi sonlar esa 6 va 5 sonlarig a teska ri proporsional. Uchinchi sonni toping? ",
+        "variantlar":[
+            {"variant":"72","num" :1 ,"isCorrect": true},
+            {"variant":"64","num" :2 ,"isCorrect": false},
+            {"variant":"56","num" :3 ,"isCorrect": false},
+            {"variant":"48","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Sinfdagi qizlar sonining o‘g‘il bolalar soniga nisbati 5/7 bo‘lsa, sinfdagi jami o‘quvchilar soni quyidagilarning qaysi biriga teng bo ‘lishi mumkin? ",
+        "variantlar":[
+            {"variant":"34","num" :1 ,"isCorrect": false},
+            {"variant":"36","num" :2 ,"isCorrect": true},
+            {"variant":"32","num" :3 ,"isCorrect": false},
+            {"variant":"30","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Bir qarzdor avval qarzining 1/3 qismini, keyinroq qolgan qismining 1/2 qismini to`ladi . Qarzdor yana 300 so’m to’lab qarzidan to’la qutildi. Uning qarzi necha so’m bo’lgan? ",
+        "variantlar":[
+            {"variant":"1200","num" :1 ,"isCorrect": false},
+            {"variant":"1000","num" :2 ,"isCorrect": false},
+            {"variant":"900","num" :3 ,"isCorrect": true},
+            {"variant":"800","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Agar kamayuvchini 30 ta va ayriluvchini 12 ta kamaytirilsa, ayirma qanday o‘zgaradi?",
+        "variantlar":[
+            {"variant":"12 ta kamayadi","num" :1 ,"isCorrect": false},
+            {"variant":"12 ta ortadi ","num" :2 ,"isCorrect": false},
+            {"variant":"24 ta ortadi ","num" :3 ,"isCorrect": false},
+            {"variant":"18 ta kamayadi","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "1 soat 160 minut 5 sekund necha sekunddan iborat? ",
+        "variantlar":[
+            {"variant":"13205","num" :1 ,"isCorrect": true},
+            {"variant":"14205","num" :2 ,"isCorrect": false},
+            {"variant":"12205","num" :3 ,"isCorrect": false},
+            {"variant":"106005","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Stol tennisi  bo`yicha musobaqalarda tarkibi bo`yicha teng komandalar qatnashdi, jami 145 nafar o`g`il bolalar va 87 nafar qiz bolalar. Barcha komandalarda o`g`il bolalar va qiz bolalar  teng miqdorda  edi. Har bir komandada nechta qiz va nechta o`g`il bola bo`lgan ?",
+        "variantlar":[
+            {"variant":"3 o`g`il, 5 qiz","num" :1 ,"isCorrect": false},
+            {"variant":"5 o`g`il, 3 qiz","num" :2 ,"isCorrect": true},
+            {"variant":"2 o`g`il, 1 qiz","num" :3 ,"isCorrect": false},
+            {"variant":"4 o`g`il, 2 qiz","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Bir nechta natural sonlarning yigʻindisi 47 ga teng. Agar shu sonlarning har biri 2 ga ortirilib yigʻindisi hisoblansa, u 63 ga teng boʻladi. Yigʻindida nechta son qatnashgan?",
+        "variantlar":[
+            {"variant":"6","num" :1 ,"isCorrect": false},
+            {"variant":"7","num" :2 ,"isCorrect": false},
+            {"variant":"8","num" :3 ,"isCorrect": true},
+            {"variant":"9","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Birinchi son ikkinchi sondan 12 ga ortiq. Ularning oʻrta arifmetigi 49 ga teng. Ikkinchi sonni toping.",
+        "variantlar":[
+            {"variant":"45","num" :1 ,"isCorrect": false},
+            {"variant":"39","num" :2 ,"isCorrect": false},
+            {"variant":"46","num" :3 ,"isCorrect": false},
+            {"variant":"43","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Zokirning 25000 soʻm, Azizaning esa 17000 soʻm puli bor. Zokir pulining necha foizini Azizaga bersa, ularning pullari miqdori teng boʻldi?",
+        "variantlar":[
+            {"variant":"16","num" :1 ,"isCorrect": true},
+            {"variant":"18","num" :2 ,"isCorrect": false},
+            {"variant":"14,5","num" :3 ,"isCorrect": false},
+            {"variant":"18,5","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Umida bitta son oʻyladi, u oʻylagan sonini 3 ga koʻpaytirdi va 15 ni qoʻshdi. Hosil boʻlgan sonni 2 ga koʻpaytirdi va oʻylagan sonini ayirdi. Natijada 90 soni hosil boʻldi. Umida qanday son oʻylagan?",
+        "variantlar":[
+            {"variant":"15","num" :1 ,"isCorrect": false},
+            {"variant":"12","num" :2 ,"isCorrect": true},
+            {"variant":"9","num" :3 ,"isCorrect": false},
+            {"variant":"10","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "7 soat 12 minut 40 sekundni sekundlarda ifodalang?",
+        "variantlar":[
+            {"variant":"25880","num" :1 ,"isCorrect": false},
+            {"variant":"25920","num" :2 ,"isCorrect": false},
+            {"variant":"25960","num" :3 ,"isCorrect": true},
+            {"variant":"25860","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Bitta daftar 600 soʻm va u bitta qalamning narxidan 400 soʻm qimmat. Oʻquvchi 3600 soʻmga daftar va qalamlar sotib oldi. Quyida keltirilgan sonlardan qaysi biri xarid qilingan qalamlarning soni boʻla oladi?",
+        "variantlar":[
+            {"variant":"4","num" :1 ,"isCorrect": false},
+            {"variant":"5","num" :2 ,"isCorrect": false},
+            {"variant":"1","num" :3 ,"isCorrect": false},
+            {"variant":"3","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Soat 7:30 da soat va minut millari orasidagi burchak necha gradusni tashkil qiladi?",
+        "variantlar":[
+            {"variant":"450","num" :1 ,"isCorrect": true},
+            {"variant":"1500","num" :2 ,"isCorrect": false},
+            {"variant":"300","num" :3 ,"isCorrect": false},
+            {"variant":"600","num" :4 ,"isCorrect": false}
+        ]
+    },
+    
+    {
+        "savol" : "Yerda og’irligi 1 birlik bo’lgan jismning Oydagi og’irligi 0,16 birlikka teng. Oyda jismning og’irligi 32 birlik bo’lishi uchun uning Yerdagi og’irligi qancha bo’lishi kerak?",
+        "variantlar":[
+            {"variant":"200","num" :1 ,"isCorrect": true},
+            {"variant":"150","num" :2 ,"isCorrect": false},
+            {"variant":"100","num" :3 ,"isCorrect": false},
+            {"variant":"250","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Futbol chempionatida jamoalarning barcha bir-biri bilan bir martadan o’yin o’ynashdi. Hammasi bo’lib 91 ta o’yin o’tkazilgan bo’lsa, chempionatda nechta jamoa ishtirok etgan",
+        "variantlar":[
+            {"variant":"12","num" :1 ,"isCorrect": false},
+            {"variant":"14","num" :2 ,"isCorrect": true},
+            {"variant":"13","num" :3 ,"isCorrect": false},
+            {"variant":"15","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Arslon 2 yil oldin, Po’lat 3 yil keyin tug’ilganida, hozir Arslon Po’latdan 2 marta katta bo’lardi. 11 yil oldin Arslonning yoshi Po’latning yoshidan 3 marta katta bo’lgan bo’lsa, Po’latning hozirgi yoshini toping?",
+        "variantlar":[
+            {"variant":"20","num" :1 ,"isCorrect": false},
+            {"variant":"30","num" :2 ,"isCorrect": false},
+            {"variant":"14","num" :3 ,"isCorrect": true},
+            {"variant":"68","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Sinfda 14 ta bola bor. Ular bir-birlari bilan salomlashib ko’rishishdi. Umumiy salomlashishlar soni nechta?",
+        "variantlar":[
+            {"variant":"192","num" :1 ,"isCorrect": false},
+            {"variant":"98","num" :2 ,"isCorrect": false},
+            {"variant":"84","num" :3 ,"isCorrect": false},
+            {"variant":"91","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : " Suv idishining yettidan ikki qismi suv bilan to’la. Agar idishga 30 litr suv quyilsa, idishning yarmi to’ladi. Idishning hajmi necha litr?",
+        "variantlar":[
+            {"variant":"140","num" :1 ,"isCorrect": true},
+            {"variant":"133","num" :2 ,"isCorrect": false},
+            {"variant":"126","num" :3 ,"isCorrect": false},
+            {"variant":"154","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Qopdagi yong’oqlarni 2 tadan, 3 tadan, 5 tadan, 6 tadan va 7 tadan sanaganda har doim 1 ta yong’oq ortib qolgan bo’lsa, bu qopda eng kamida qancha yong’oq bor?",
+        "variantlar":[
+            {"variant":"61","num" :1 ,"isCorrect": false},
+            {"variant":"71","num" :2 ,"isCorrect": false},
+            {"variant":"141","num" :3 ,"isCorrect": false},
+            {"variant":"211","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : " Bir ishni Abdurauf 10 soatda, Botir 15 soatda, Shamsiddin 12 soatda tugatadi. Ular uchchalasi 3 soat birga ishlagandan keyin Abdurauf ketib qolsa, qolgan ishni Botir va Shamsiddin necha soatda tugatishadi?",
+        "variantlar":[
+            {"variant":"2 soat 40 daqiqa","num" :1 ,"isCorrect": false},
+            {"variant":"2 soat 20 daqiqa ","num" :2 ,"isCorrect": false},
+            {"variant":"2 soat ","num" :3 ,"isCorrect": false},
+            {"variant":"1 soat 40 daqiqa ","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Nonga navbatda turgan talabadan  navbatda nechta odam bor deb so’raldi. U: Oldimdagilar orqamdagilarning to’rdan biridan 15 ta ko’p, men esa navbatning o’rtasidaman”-deb javob berdi. Abdurahmon nechanchi navbatda turibdi?",
+        "variantlar":[
+            {"variant":"41","num" :1 ,"isCorrect": false},
+            {"variant":"40","num" :2 ,"isCorrect": false},
+            {"variant":"20","num" :3 ,"isCorrect": false},
+            {"variant":"21","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Savdogar olgan molini 20% foyda bilan sotishni mo’ljallagan edi. Xaridor bilan savdolashish natijasida molni mo’ljallagan narxidan 3000 so’m arzonroq sotdi. Keyinroq hisoblab qarasa, bu savdodan u 5% zarar ko’rganligini aniqladi. Savdogar molni qanchaga sotgan?",
+        "variantlar":[
+            {"variant":"11400","num" :1 ,"isCorrect": true},
+            {"variant":"12000","num" :2 ,"isCorrect": false},
+            {"variant":"13400","num" :3 ,"isCorrect": false},
+            {"variant":"10000","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Bir guruhdagi o’g’il bolalar soni qizlar sonidan 8 marta ko’p bo’lsa, guruhdagi qizlar va o’g’il bolalarning umumiy soni quyidagilardan qaysi biri teng bo’la olmaydi?",
+        "variantlar":[
+            {"variant":"1206","num" :1 ,"isCorrect": false},
+            {"variant":"7106","num" :2 ,"isCorrect": true},
+            {"variant":"4005","num" :3 ,"isCorrect": false},
+            {"variant":"10215","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Matematika xonasida o’quvchilar partalariga 2 tadan o’tirsa, 7 ta o’quvchi joysiz qoladi. 3 tadan o’tirsa, 2 ta parta bo’sh qoladi. Agar o’quvchilar partaga 4 tadan o’tirishsa, yana nechta o’quvchiga joy yetarli bo’ladi?",
+        "variantlar":[
+            {"variant":"7","num" :1 ,"isCorrect": false},
+            {"variant":"19","num" :2 ,"isCorrect": true},
+            {"variant":"15","num" :3 ,"isCorrect": false},
+            {"variant":"12","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Tayoq 24 ta teng bo’lakka bo’lindi. Agar shu tayoq 30 ta teng bo’lakka bo’linganda bo’laklar 6 sm qisqaroq bo’lardi. Tayoqning uzunligi necha m?",
+        "variantlar":[
+            {"variant":"9","num" :1 ,"isCorrect": false},
+            {"variant":"10","num" :2 ,"isCorrect": false},
+            {"variant":"7.2","num" :3 ,"isCorrect": true},
+            {"variant":"6","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Uch o’quvchining o’rtacha balli 72,6 ga teng, boshqa ikki o’quvchining o’rtacha balli 76,1ga teng. Bu besh o’quvchining o’rtacha balli nechaga teng?",
+        "variantlar":[
+            {"variant":"75,2","num" :1 ,"isCorrect": false},
+            {"variant":"74,35","num" :2 ,"isCorrect": false},
+            {"variant":"73,4","num" :3 ,"isCorrect": false},
+            {"variant":"74,0 ","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Ikki shamdan uzuni 12 soatda, qisqasi 15 soatda yonib bo’ladi. Bu shamlar bir vaqtda yoqilgach besh soatdan so’ng ularning uzunliklari teng bo’lib qoladi. Shamlarning yonmasdan oldingi uzunliklari nisbatini toping?",
+        "variantlar":[
+            {"variant":"4","num" :1 ,"isCorrect": false},
+            {"variant":"20","num" :2 ,"isCorrect": false},
+            {"variant":"12","num" :3 ,"isCorrect": false},
+            {"variant":"2","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Ko’p qavatli uyning 4-qavatigacha bo’lgan masofa 12 metr. Shu uyning 12-qavatigacha bo’lgan masofa necha metr?",
+        "variantlar":[
+            {"variant":"44","num" :1 ,"isCorrect": true},
+            {"variant":"48","num" :2 ,"isCorrect": false},
+            {"variant":"36","num" :3 ,"isCorrect": false},
+            {"variant":"33","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "",
+        "variantlar":[
+            {"variant":"14","num" :1 ,"isCorrect": false},
+            {"variant":"19","num" :2 ,"isCorrect": false},
+            {"variant":"23","num" :3 ,"isCorrect": false},
+            {"variant":"38","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "20 metr balandlikdan tashlangan koptok har safar avvalgi balandligining 0,8 qismiga ko’tariladi. Koptok yerga uchinchi urilishidan so’ng qanday balandlikka ko’tariladi?",
+        "variantlar":[
+            {"variant":"12.8","num" :1 ,"isCorrect": false},
+            {"variant":"10.24","num" :2 ,"isCorrect": true},
+            {"variant":"8.19","num" :3 ,"isCorrect": false},
+            {"variant":"16","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Talaba guruh  ro’yxatida 13-o’rinda, orqadan sanaganda 17-o’rinda. Talaba o’qiydigan guruhda nechta o’quvchi mavjud?",
+        "variantlar":[
+            {"variant":"28","num" :1 ,"isCorrect": false},
+            {"variant":"19","num" :2 ,"isCorrect": false},
+            {"variant":"29","num" :3 ,"isCorrect": true},
+            {"variant":"30","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : "Ikkita ikki xonali sonlarning ko’paytmasi 1296 ga teng. Shu sonlardan birining oxirgi raqami 8 dan 6 ga o’zgartirilsa, ko’paytma 1242 ga teng bo’ladi. Ko’paytuvchilarni toping?",
+        "variantlar":[
+            {"variant":"16 va 81","num" :1 ,"isCorrect": false},
+            {"variant":"72 va 18 ","num" :2 ,"isCorrect": false},
+            {"variant":"24 va 54","num" :3 ,"isCorrect": false},
+            {"variant":"48 va 27","num" :4 ,"isCorrect": true}
+        ]
+    },
+    {
+        "savol" : "Guruhdagi talabalarning  23 tasi sport to’garagiga, 15 tasi musiqa to’garagiga va 9 tasi har ikki to’garakka qatnashadi. To’garaklarga umuman qatnashmaydiganlar soni 7 kishi bo’lsa, guruhda nechta talaba o’qiydi?",
+        "variantlar":[
+            {"variant":"36","num" :1 ,"isCorrect": true},
+            {"variant":"54","num" :2 ,"isCorrect": false},
+            {"variant":"45","num" :3 ,"isCorrect": false},
+            {"variant":"29","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : " 2 ga ko’paytirganda natural bo’luvchilari soni 6 ga ortadigan eng kichik uch xonali sonning raqamlari yig’indisini toping. ",
+        "variantlar":[
+            {"variant":"14","num" :1 ,"isCorrect": false},
+            {"variant":"9","num" :2 ,"isCorrect": true},
+            {"variant":"13","num" :3 ,"isCorrect": false},
+            {"variant":"11","num" :4 ,"isCorrect": false}
+        ]
+    },
+    {
+        "savol" : " 2016 yil 10-iyulda Bojxona institutiga matematika (3,1 ball), ingliz tili (2,1), ona tili va adabiyoti (1,1 ball) fanlaridan imtihon topshirgan abiturentning natijasi 201,6 ball bo’lib, faqat matematikadan 36 ta yechgan bo’lsa, ona tilidan nechta savolda xato qilgan?",
+        "variantlar":[
+            {"variant":"12","num" :1 ,"isCorrect": false},
+            {"variant":"19","num" :2 ,"isCorrect": false},
+            {"variant":"21","num" :3 ,"isCorrect":true},
+            {"variant":"15","num" :4 ,"isCorrect": false}
+        ]
+    },{
+        "savol" : "Aka-ukaning yoshlari farqi 5 yosh. Akasi ukasining yoshida bo’lgan vaqtda ikkisining yoshlari yig’indisi 23 ga teng bo’lgan. Akaning hozirgi yoshini toping",
+        "variantlar":[
+            {"variant":"14","num" :1 ,"isCorrect": false},
+            {"variant":"19","num" :2 ,"isCorrect": false},
+            {"variant":"23","num" :3 ,"isCorrect": false},
+            {"variant":"38","num" :4 ,"isCorrect": true}
+        ]
+    }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "savol" : "Ikki kishi daryo sohiliga keldilar.Ularning har ikkisi ham daryoning nargi tomoniga o’tishi kerak edi.Sohilda bitta qayiq bo’lib u faqat bir kishini ko’tara olardi. Shunga qaramay ular maqsadlariga yetdilar.Ular buni qanday uddalashdi?",
+        "variant":"Ular daryoning turli sohillarida edilar","num" :1 ,"isCorrect": true
+        
+    },
+    {
+        "savol" : "Vaqtning 10 asrga teng davri qanday?",
+        "variant":"Ming yillik","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Yer yuzidagi barcha aholi bir vaqrning o’zida nima qiladi?",
+        "variant":"Ulg'ayadi","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "  Sun’iy yo’ldosh yer orbitasini 1 soat 40 daqiqada aylanib chiqadi, lekin teskari yo’nalishda shu aylanib chiqish uchun 100 daqiqa vaqt ketadi. Buning sababini izohlang.",
+        "variant":"Ikkalasi teng","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " Oq bo’lganda tozalash kerak bo’ladi, yashil bo’lganda esa toza hisoblanadi.Gap nima haqida",
+        "variant":"Doska","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Yengil yoki og’ir bo’lishi mumkin. Lekin vaznga ega emas. Tez va asta bo’ladi, ammo yugurishga, uchishga, suzishga ham qodir emas. U nima?",
+        "variant":"Musiqa","num" :2 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "U sizga tegishli, ammo boshqalar undan sizga nisbatan ancha ko’proq foydalanishadi. U nima?",
+        "variant":"Sizning ismingiz","num" :3 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Shunday insonlar borki, ular otni ham fini ham qiyinchiliksiz ko’tara oladi, joyini o’zgartira oladi. Ular kimlar?",
+        "variant":"Shaxmatchilar","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Bu “mashina” umuman harakatlanish uchun mo’ljallanmagan. Ammo butun dunyodagi ularning yurgan “yo’lini” hisoblasak ular avtomobil va samolyot bosib o’tgan masofadan ortib ketadi. Hammamiz ko’rgan va ba’zilarimizda bor bo’lgan bu “mashinaning” nomi nima?",
+        "variant":"Soat","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " L.N.Tolstoy maishiy turmushga bag’ishlangan barcha asarlar, roman bo’ladimi, film bo’ladimi, qissa afsona bo’ladimi voqealar rivojlanib borib u bilan tugaydi, hayotda esa aksincha hamma voqealar undan keyin boshlanadi degan. Mantiqiy o’ylab aytingchi, L.N.Tolstoy nimani nazarda tutgan?",
+        "variant":"To'y","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Qiziqarli fakt: u AQSHliklarda O. K. Y. tarzida berilsa yaponlarda Y. O. K. shaklida, bizda K. O. Y. ketma-ketlikda beriladi. Agar anglagan bo’lsangiz nimaning ketma-ketligi keltirilmoqda?",
+        "variant":"Kun oy yil","num" :2 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "U odamzod o’zi uchun tuzib oladigan qora ro’yhatda turadi, uning kattasi emas, ba’zan ko’zga ko’rinmaydiganlari havfliroq. Uning kattasimi, kichigimi har birimizda bor. Mantiqiy o’ylab javobini toping.",
+        "variant":"Xato","num" :3 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " Shunday bir tuyg’u borki u oyoqlarga qanot berishi ham, oyoqlarni yerga kishanlashi ham mumkin. Savol: bu qaysi tuyg’u?",
+        "variant":"Qo'rquv","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Jiddiy savol: U eng arzon va eng qimmat mulk. Undan to’g’ri foydalanilsa dahoga aylanish mumkin. U nima?",
+        "variant":"Vaqt","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Mantiqiy savol: Bu ikki aka uka bir joyda tug’ilgan. Yosh orasi ham uncha uzoq emas. Akasi 4 yil yashagan, ukasi akasidan 2 yil ko’proq yashagan. Bu g’alati mashhur aka ukalar nimalar?",
+        "variant":"I va II jahon urushi","num" :2 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Matematik topishmoq: pastda turgan bir g’oz osmonda uchib ketayotgan g’ozlarga qarab “Hooy yuz g’ozlar, meni ham olib ketinglar!” – debdi. Shunda osmondagi g’ozlar “Biz 100 ta emasmiz, bizga bizcha, bizning yarmimizcha, yarmimizni yarmicha keyin sen qo’shilsang 100 ta bo’lamiz” – deyishibdi Osmondagi g’ozlar nechta?",
+        "variant":"36 ta","num" :3 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Qiziqarli boshqotirma. Ikkita bir xil stakan. Ularning birida sut, ikkinchisida kofe. Ularning miqdori bir xil. Birinchi stakandan 1 qoshiq sut olib ikkinchi stakanga solindi va aralashtirildi, keyin ikkinchi stakandagi sut aralashgan kofedan bir qoshiq olib sut solingan stakanga quyildi va aralashtirildi. Savol: sutda kofe ko’pmi, kofeda sut?",
+        "variant":"Har ikkisida ham miqdor teng","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Eng qizig’I, u qush shuncha tez suzsa ham ucha olmaydi. Bu qaysi qush?",
+        "variant":"Pingivin","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Nimaning 5 ta barmog’I bor, tirnoqlari yo’q?",
+        "variant":"Qo'lqop","num" :2 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Uning o’rnida Sulaymon orollarida odamning bosh suyagi, Santa Krus orollarida qush patlaridan yasalgan 10 m. lik tasma, Tinch okeanidagi ba’zi orollarda 100 yil oldin diametri    4 m. lik bo’lgan toshlar ishlatilgan. Savol: uning o’rnida biz hozir nima ishlatamiz?",
+        "variant":"Pul","num" :3 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "U dunyoda 3096 ta. Har yili ularning 14 tasi yo’qolib ketmoqda. Savol: u nima?",
+        "variant":"Til","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Uning qora, yashil, sariq, qizil turlari mavjud. U deyarli har bir honadonda bor. Savol: u nima?",
+        "variant":"Choy","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Dunyoda o’qitiladigan fanlar ko’p. Har bir fan o’z ma’nosiga ega. Qaysi fan “Donolikni sevaman” ma’nosini bildiradi?",
+        "variant":"Filosofiya – Falsafa","num" :1 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Yer yuzida shunday tarjimon borki, u xohlagan tilda gapiring, u gapingizni tarjima qilib tilingizda javob qaytara oladi. Mantiqiy o’ylab ko’ring, qanday tarjimon so’ralmoqda?",
+        "variant":"Aks-sado","num" :2 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Qayerda ot ustidan ot sakrab o’tishini ko’rish mumkin?",
+        "variant":"Shaxmat o’yinida","num" :3 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Ot o’z bo’yniga bog’langan qo’ng’iroqning ovozini eshitmaslik uchun necha km/soat tezlikda chopishi kerak?",
+        "variant":"0","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Bu narsa insonga 2 marta beriladi. Uchinchisida sotib olinadi?",
+        "variant":"Tish","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " Qaysi oyda 28 kun bor?",
+        "variant":" Barcha oyda","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Qanday idishda ovqat yeb bo’lmaydi?",
+        "variant":"Bo’sh idishda","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Stolning 4 ta burchagi bor. Uning bir burchagini kesib yuborsak nechta burchak qoladi?",
+        "variant":"5","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Undan qancha olsangiz, shuncha kattalashib boraveradi. U nima?",
+        "variant":"Chuqur","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Bu xarf deyarli dunyoning barcha alfavitlarida 1 xil yozilishi bilan rekord o’rnatgan. bu qaysi xarf?",
+        "variant":"O","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Professor kech soat sakkizda budelnikni 9 ga qo’yib uyquga yotdi. U necha soat uxlaydi?",
+        "variant":"1 soat","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Mahmudning 10 ta qo’yi bor edi. 9 tadan boshqa hamma qo’ylari o’lib qoldi. Mahmudning nechta qo’yi qoldi?",
+        "variant":"9","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Juda och qoringa nechta tuxum yeyish mumkin?",
+        "variant":"1 ta","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Yog’ochni 12 bo’lakka bo’lish uchun uni necha marta arralash kerak?",
+        "variant":"11 marta","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Qo’llarda 10 ta barmoq bor. 10 ta qo’lda nechta barmoq bor?",
+        "variant":"50 ta","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Kun va tun nima bilan tugaydi?",
+        "variant":"N harfi bilan","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Avtobusda 15 yo’lovchi ketayotgan edi. Birinchi bekatda 3 yo’lovchi chiqdi, keyingi bekatda 2 yo’lovchi tushib qolib, 4 yo’lovchi chiqdi, keyingi bekatda 4 yo’lovchi tushib 7 yo’lovchi chiqdi, keyingi bekatda esa 1 yo’lovchi tushib 6 yo’lovchi chiqdi. Avtobus necha bekat yurdi?",
+        "variant":"4 bekat","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "1 dan 100 gacha sonlar orasida nechta 9 bor? ",
+        "variant":"20 ta","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " 7 ta sham yonib turgan edi. Ulardan 3 tasini o’chirib qo’yishdi. Nechta sham qoldi?",
+        "variant":"3 ta","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " Hamma narsani ko’rayotganingizda uni ko’ra olmaysiz, hech narsani ko’rmaganingizda esa uni ko’ra olasiz. U nima?",
+        "variant":"Qorong’ulik","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Ular qanchalik ko’payib ketsa, vazni shunchalik kamayib boraveradi.",
+        "variant":"G’ovak","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Professor do’stlarini o’zining maxsus salati bilan mehmon qilishni niyat qildi. Buning uchun unga: 3 ta bulg’or qalampiri va huddi shuncha pomidor, pomidorlardan ko’ra kamroq, ammo piyozdan ko’proq bodring kerak bo’ladi. Professor jami bo’lib necha dona turli xil sabzavotlar ishlatadi?",
+        "variant":"9 ta","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Bola choynak va uning qopqog’i uchun 11 so’m pul to’ladi. Choynakning narxi qopqog’iga qaraganda 10 so’m qimmat. Qopqoqning narxi necha pul?",
+        "variant":"50 tiyin","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Men suvman va suv yuzida suzib yuribman. Men kimman?",
+        "variant":"Muz","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : " Garchi u yengil bo’lsa ham nimani 10 daqiqadan ortiq ushlab turib bo’lmaydi?",
+        "variant":"Nafasni","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Uning balandligi ham, eni va bo’yi ham yo’q, lekin uni o’lchasa bo’ladi. U nima?",
+        "variant":"Harorat","num" :4 ,"isCorrect": true
+       
+    },
+    {
+        "savol" : "Haydovchi yuk mashinasini haydab ketayotgan edi. Mashinaning yoritgichlari (faralari) o’chgan, osmonda oy ham ko’rinmasdi. Shu vaqt yo’lni bir ayol kesib o’ta boshladi, lekin haydovchi u ayolni uzoqdan ko’ra oldi. Haydovchining bunday muvaffaqqiyati nimaga bog’liq edi?",
+        "variant":"Chunki o’sha vaqt kunduzi edi","num" :4 ,"isCorrect": true
+       
+    }
+]

@@ -1,0 +1,176 @@
+.swiper {
+    padding-bottom: 50px !important;
+    padding: 1rem !important;
+}
+.box__card-carusel{
+    padding: 0 1rem;
+}
+.card{
+    width: 25%;
+    padding: 0 1rem;
+}
+.swipper__button{
+    justify-content: space-between;
+    position: absolute;
+    width: 100%;
+    margin: 0 0rem 0 -1rem;
+}
+.card__title{
+    justify-content: center;
+    align-items: center;
+}
+.direction{
+    width: 40px;
+    height: 40px;
+    font-size: 2.15rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 2px solid var( --gray-color);
+    color: var(--dark-color);
+}
+.direction:hover{
+    border: 1px solid var(--dark-color);
+}
+.card__img{
+    padding: 1rem;
+    height: 180px;
+    border-radius: 1rem;
+    background-color: var(--frist-color);
+    background-image: url(../img/bg-img.png);
+    justify-content: space-between;
+}
+.card__img-title{
+    color: var(--frist-color-light);
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 4rem;
+}
+.card__img-title > h2{
+    font-weight: 500;
+    margin: 0;
+}
+.card__img-title > p{
+    font-size: var(--normal-font-size);
+    font-weight: 300;
+    color: rgb(225, 224, 224);
+    margin: 0;
+}
+.button__starting{
+    margin-top: 1rem;
+    border-radius: 2rem;
+    align-items: center;
+    height: 45px;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.3);
+    transition: .4s all;
+}
+.button__starting:hover{
+    background-color: rgba(255, 255, 255, 0.555);
+}
+.button__starting box-icon {
+    width: 45px;
+    height: 45px;
+    font-size: 2.65rem;
+    justify-content: center;
+    align-items: center;
+    color: var(--frist-color);
+    background-color: var(--frist-color-light);
+}
+.starting{
+    margin:0 .75rem 0 .45rem;
+    color: var(--frist-color-light);
+}
+.card__img-icon{
+    grid-template-columns: auto;
+    row-gap: .5rem;
+    background-color: var(--frist-color-light);
+    /* margin: 1rem; */
+    padding: .35rem;
+    border-radius: 1rem;
+}
+.icon__box{
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    justify-content: center;
+    align-items: center;
+}
+.button__starting > .icon__box {
+    margin-right: .8rem;
+}
+.icon__box > img{
+    width: 20px;
+}
+.card__description{
+    row-gap: 1.5rem;
+    padding: 1rem 0;
+}
+
+.card__description-item{
+    align-items: center;
+    padding: .65rem;
+    background-color: #dbf6ff2f;
+    border-radius: 1rem;
+    transition: .5s;
+}
+.card__description-item:hover{
+    background-color: #dbf6ff90;
+}
+.card__description-item > i{
+    font-size: 1.75rem;
+    color: #00BBF9;
+    margin-right: .75rem;
+}
+.card__description-item > p{
+    font-size: var(--normal-font-size);
+    margin-left: 10px;
+}
+
+.box__card-carusel-button{
+    justify-content: center;
+}
+.carusel__button{
+    border: 2px solid #cecece;
+    color: #cecece;
+    position: relative;
+    width: 2rem;
+    height: 2rem;
+    margin:0 .5rem;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+#active{
+    border: none;
+    color: var(--frist-color-light);
+    position: absolute;
+    background-color: #00BBF9;
+}
+.box__card-carusel{
+    margin-bottom: 30px;
+}
+
+.swiper__btn{
+    display: none !important;
+    color: #aaaaaa !important;
+    transition: .5s ease;
+}
+.swiper__btn:hover{
+    color: var(--frist-color) !important;
+}
+
+.swiper-button-prev,.swiper-button-next{
+    color: var(--dark-color) !important;
+}
+.swiper-button-prev{
+    margin-left: -.9rem;
+}
+.swiper-button-next{
+    margin-right: -.9rem;
+}
+.card__img-icon-you {
+    align-items: center;
+    justify-content: center;
+    padding-right: .5rem;
+}
