@@ -20,7 +20,7 @@ const Mentality = () => {
     const [name, setName] = useState("");
     const [play] = useSound(qarsak);
     const [data, setData] = useContext(StateContext);
-    
+    const [nonee, setNonee] = useState(false);
     const [savolNum, setSavolNum] = useState(0);
     const [showScore, setShowScore] = useState(false);
     const [openModal, setOpenModal] = useState(false);
@@ -80,6 +80,9 @@ const Mentality = () => {
         setData(0);
     }
 
+    const none = () => {
+        setNonee(true);
+    }
     return (
         <div className='container question'>
             {
@@ -123,7 +126,7 @@ const Mentality = () => {
                                             <div className='sertificate'>
                                                 <div className='sertificate'>
                                                     <label className='name'>Ism sharfingizni kiriting </label>
-                                                    <input type="text" value={name} onChange={(e) => setName(e.target.value)} className='input_name'></input>
+                                                    <input type="text" value={name} onChange={(e) => setName(e.target.value)} className={`${nonee? 'none':'input_name '}`}></input>
                                                 </div>
                                                 <div id='sertificate2' ref={componentRef}>
                                                     <p className='serteficate_name'>{name}</p>
@@ -144,7 +147,7 @@ const Mentality = () => {
                                             <div className='sertificate'>
                                                 <div className='sertificate'>
                                                     <label className='name'>Ism sharfingizni kiriting </label>
-                                                    <input type="text" value={name} onChange={(e) => setName(e.target.value)} className='input_name'></input>
+                                                    <input type="text" value={name} onChange={(e) => setName(e.target.value)} className={`${nonee? 'none':'input_name '}`}></input>
                                                 </div>
                                                 <div id='sertificate2' ref={componentRef}>
                                                     <p className='serteficate_name'>{name}</p>
@@ -166,13 +169,17 @@ const Mentality = () => {
                             </Link>
                                 <button className={`${openModal? 'none':'reset_btn'}`} type='button' onClick={modal}>Sertifikatni yuklab olish</button>
                             <Link to="/">
+                                <button className={`${nonee? 'reset_btn':'none'}`} type='button' onClick={modal}>Bosh sahifa</button>
+                            </Link>
                                 <button 
                                     className={`${openModal? 'reset_btn':'none'}`} 
-                                    onClick={() => exportComponentAsPNG(componentRef)}
+                                    onClick={() => {
+                                        exportComponentAsPNG(componentRef)
+                                        none()
+                                    }}
                                     type='submit'>
                                         Yuklab olish
                                 </button>
-                            </Link>
                         </div>
                     </div>
                 )
