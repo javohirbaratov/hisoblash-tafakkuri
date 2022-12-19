@@ -17,11 +17,14 @@ const Presentation = () => {
                     <h1>Taqdimotlar</h1>
                 </div>
                 {arr.map((num)=> 
-                    <a href={require("../file/" + num + ".pptx")} target="_blank" key={num}>
+                    <Link
+                        to={"../view/taqdimotImg&" + num}
+                        key={num}
+                    >
                         <div className="table-item">
                             <p>{num} - taqdimot</p>
                         </div>
-                    </a>
+                    </Link>
                 )}
             </div>
         </div>

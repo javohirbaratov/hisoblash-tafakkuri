@@ -44,7 +44,7 @@ const Mentality = () => {
             })
             setDoneQuest(filQuest);
             console.log(doneQuest);
-        }
+        } 
     }, [quest]);
 
     const ansverResponse = (isCorrect) => {
@@ -96,7 +96,7 @@ const Mentality = () => {
                                         (openModal)?
                                         (
                                             <div className='sertificate'>
-                                                <label className='name'>Ism sharfingizni kiriting </label>
+                                                <label className='name'>F.I.SH kiriting </label>
                                                 <input type="text" value={name} onChange={(e) => setName(e.target.value)} className='input_name'></input>
                                                 <div id='sertificate1' ref={componentRef}>
                                                     <p className='serteficate_name'>{name}</p>
@@ -125,7 +125,7 @@ const Mentality = () => {
                                         (
                                             <div className='sertificate'>
                                                 <div className='sertificate'>
-                                                    <label className='name'>Ism sharfingizni kiriting </label>
+                                                    <label className='name'>F.I.SH kiriting </label>
                                                     <input type="text" value={name} onChange={(e) => setName(e.target.value)} className={`${nonee? 'none':'input_name '}`}></input>
                                                 </div>
                                                 <div id='sertificate2' ref={componentRef}>
@@ -146,7 +146,7 @@ const Mentality = () => {
                                         (
                                             <div className='sertificate'>
                                                 <div className='sertificate'>
-                                                    <label className='name'>Ism sharfingizni kiriting </label>
+                                                    <label className={`${openModal? 'none':'name'}`}>F.I.SH kiriting </label>
                                                     <input type="text" value={name} onChange={(e) => setName(e.target.value)} className={`${nonee? 'none':'input_name '}`}></input>
                                                 </div>
                                                 <div id='sertificate2' ref={componentRef}>
@@ -163,7 +163,7 @@ const Mentality = () => {
                                             </div>
                                         )
                                     )
-                            }
+                            }    
                             <Link to="/select">
                                 <button className={`${openModal? 'none':'reset_btn'}`} type='submit' onClick={reset}>Qaytadan boshlash</button>
                             </Link>
@@ -178,7 +178,7 @@ const Mentality = () => {
                                         none()
                                     }}
                                     type='submit'>
-                                        Yuklab olish
+                                        Yuklab olish 
                                 </button>
                         </div>
                     </div>
@@ -195,13 +195,13 @@ const Mentality = () => {
                                 </div>
                                 <div className='question_text'>
                                     <h3>{doneQuest[savolNum].savol}</h3>
-                                </div>
+                                </div> 
                                 <div className='answer grid'>
                                     {shuffle(doneQuest[savolNum].variantlar).map((variants)=>
                                         <button className='answer_button' key={variants.num} onClick={()=>ansverResponse(variants.isCorrect)}>{variants.variant}</button>
                                     )}
                                 </div>
-                            </div>
+                            </div> 
                         </>
                     ):(
                         <>Loading....</>

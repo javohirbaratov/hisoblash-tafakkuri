@@ -15,6 +15,7 @@ import Exercises from './project/Exercises';
 import SelectTests from './project/SelectTests';
 import Mentality from './project/Mentality';
 import Test from './project/Test';
+import WiewPdf from './project/WiewPdf';
 
 import { StateContext } from './StateProvider';
 function App() {
@@ -24,7 +25,7 @@ function App() {
     
 
     return (
-        <div className="App">
+        <div>
             
             <div>
                 <BrowserRouter>
@@ -41,6 +42,7 @@ function App() {
                             <Route path="/tests" element={<Tests />} />
                             <Route path="/questions" element={<Questions />} />
                             <Route path="/mentality" element={<Mentality />} />
+                            <Route path="/view/:file" element={<WiewPdf/>} />
                         </Route>
                     </Routes>
                 </BrowserRouter>

@@ -95,3 +95,14 @@ a{
     position: absolute;
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
 }
+
+
+.pdf-view{
+    width: 100%;
+}
+  .page-container{
+    width: 300px !important;
+  }
+  .w1{
+    width: 100% !important;
+  }

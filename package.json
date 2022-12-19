@@ -3,21 +3,31 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@cyntler/react-doc-viewer": "^1.7.0",
+    "@capacitor/android": "^4.6.0",
+    "@capacitor/core": "^4.6.0",
+    "@cyntler/react-doc-viewer": "^1.10.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.0.0",
     "boxicons": "^2.1.4",
+    "custom-error": "^0.2.1",
+    "logging-library": "^0.5.0",
     "pdf-lib": "^1.17.1",
+    "pdf-react": "^1.5.1",
+    "pspdfkit": "^2022.5.1",
     "react": "^18.2.0",
     "react-component-export-image": "^1.0.6",
     "react-confetti": "^6.1.0",
     "react-doc-viewer": "^0.1.5",
     "react-dom": "^18.2.0",
+    "react-file-viewer": "^0.5.0",
     "react-modal": "^3.15.1",
+    "react-pdf": "^6.2.0",
     "react-scripts": "5.0.1",
     "save-html-as-image": "^1.7.1",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.6.15",
     "swiper": "^8.4.2",
     "use-sound": "^4.0.1",
     "web-vitals": "^2.1.4"
@@ -47,6 +57,8 @@
     ]
   },
   "devDependencies": {
-    "react-router-dom": "^6.4.2"
+    "@capacitor/cli": "^4.6.0",
+    "react-router-dom": "^6.4.2",
+    "worker-loader": "^3.0.8"
   }
 }

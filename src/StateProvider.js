@@ -5,7 +5,7 @@ export const StateContext = createContext();
 
 
 export const StateProvider = ({value, children}) => {
-    const [ball, setBall] = useState(0)
+    const [ball, setBall] = useState([])
 
     return(
         <StateContext.Provider value={[ball, setBall]}>

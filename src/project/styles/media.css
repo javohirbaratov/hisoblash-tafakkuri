@@ -86,9 +86,8 @@
     :root{
         --normal-font-size: .8rem;
     }
-    
-    .swiper {
-        padding: 15px 1rem !important;
+    .swiper{
+        margin-top: 2rem;
     }
     .title h1{
         margin: 10px;

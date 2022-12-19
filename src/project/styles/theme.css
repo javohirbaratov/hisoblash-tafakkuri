@@ -1,6 +1,7 @@
 .table{
     gap: 1rem;
     padding: 1rem;
+    padding-top: 3rem;
 }
 .table > .title{
     text-align: center;

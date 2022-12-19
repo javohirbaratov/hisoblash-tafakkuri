@@ -34,6 +34,7 @@ const Tests = () => {
 
     const ansverResponse = (isCorrect) => {
         if(isCorrect){
+            
             setData(data+3);
             setBall(ball+3);
         }

@@ -55,7 +55,7 @@ export default function Swipper() {
 						<Link to="/information" className="starting">
 							<div className="button__starting flex">
 								<div className="icon__box flex">
-									<box-icon name='chevron-right'></box-icon>
+									<svg  color="black" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
 								</div>
 								<p>Ko'rish</p>
 							</div>
@@ -101,6 +101,54 @@ export default function Swipper() {
 			<div className="card swiper-slide">
 				<div className="card__title flex">
 					<div className="title">
+						<h1>Multimedia</h1>
+					</div>
+				</div>
+				<div className="card__img green flex">
+					<div className="card__img-title flex">
+						<h2>Multimedia</h2>
+						<p>You tube</p>
+						<Link to="/select" className="starting">
+							<div className="button__starting flex">
+								<div className="icon__box flex">
+									<svg  color="black" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
+								</div>
+								<p>Ko'rish</p>
+							</div>
+						</Link>
+					</div> 
+					<div className="card__img-icon-you flex">
+						{/* <img src={youTube}/> */}
+					</div>
+				</div>
+				<div className="card__description grid">
+					<Link to="/">
+						<div className="card__description-item flex">
+							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
+							<p>Vedio qulanma test rejimida</p>
+						</div>
+					</Link>
+					<Link to="/">
+						<div className="card__description-item card__description-item-2 flex">
+							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
+							<p>Vedio malumot test rejimida</p>
+						</div>
+					</Link>
+					<Link to="/">
+						<div className="card__description-item card__description-item-3 flex">
+							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
+							<p>Vedio dars test rejimida</p>
+						</div>
+					</Link>
+					
+				</div>
+			</div> 
+		</SwiperSlide>
+
+		<SwiperSlide>
+			<div className="card swiper-slide">
+				<div className="card__title flex">
+					<div className="title">
 						<h1>Hisoblash tafakkuri</h1>
 					</div>
 				</div>
@@ -111,7 +159,7 @@ export default function Swipper() {
 						<Link to="/select" className="starting">
 							<div className="button__starting flex">
 								<div className="icon__box flex">
-									<box-icon name='chevron-right'></box-icon>
+									<svg  color="black" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg>
 								</div>
 								<p>Ko'rish</p>
 							</div>
@@ -147,54 +195,6 @@ export default function Swipper() {
 						<div className="card__description-item card__description-item-3 flex">
 							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
 							<p>Hisoblash tafakkuri (50 ball) 10 ta savol</p>
-						</div>
-					</Link>
-					
-				</div>
-			</div> 
-		</SwiperSlide>
-        
-		<SwiperSlide>
-			<div className="card swiper-slide">
-				<div className="card__title flex">
-					<div className="title">
-						<h1>Multimedia</h1>
-					</div>
-				</div>
-				<div className="card__img green flex">
-					<div className="card__img-title flex">
-						<h2>Multimedia</h2>
-						<p>You tube</p>
-						<Link to="/select" className="starting">
-							<div className="button__starting flex">
-								<div className="icon__box flex">
-									<box-icon name='chevron-right'></box-icon>
-								</div>
-								<p>Ko'rish</p>
-							</div>
-						</Link>
-					</div> 
-					<div className="card__img-icon-you flex">
-						{/* <img src={youTube}/> */}
-					</div>
-				</div>
-				<div className="card__description grid">
-					<Link to="/">
-						<div className="card__description-item flex">
-							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
-							<p>Vedio qulanma test rejimida</p>
-						</div>
-					</Link>
-					<Link to="/">
-						<div className="card__description-item card__description-item-2 flex">
-							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
-							<p>Vedio malumot test rejimida</p>
-						</div>
-					</Link>
-					<Link to="/">
-						<div className="card__description-item card__description-item-3 flex">
-							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
-							<p>Vedio dars test rejimida</p>
 						</div>
 					</Link>
 					

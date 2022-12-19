@@ -1,12 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-const arr = [];
-for (let i=1; i<=31; i++){
-    if(i==22)
-        continue;
-    arr[i] = i;
-    
-}
+
 const Exercises = () => {
     return (
         <div className='container'>
@@ -15,11 +9,13 @@ const Exercises = () => {
                 <div className="title">
                     <h1>Mashg'ulotlar</h1>
                 </div>
-                <a href={require("../file/amaliy.pdf")} target="_blank">
+                <Link
+                    to={"../view/taqdimotImg&" + "amaliy"}
+                >
                     <div className="table-item">
-                        <p>1 - Mashg'ulot</p>
+                        <p>1 - mashg'ulot</p>
                     </div>
-                </a>
+                </Link>
             </div>
         </div>
     );
