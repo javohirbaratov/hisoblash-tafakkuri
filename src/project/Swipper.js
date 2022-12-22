@@ -182,19 +182,19 @@ export default function Swipper() {
 					<Link to="/select">
 						<div className="card__description-item flex">
 							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
-							<p>Test (30 ball) 20 ta savol</p>
+							<p>Test (30 ball) 10 ta savol</p>
 						</div>
 					</Link>
 					<Link to="/select">
 						<div className="card__description-item card__description-item-2 flex">
 							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
-							<p>Mantiqiy savollar (20 ball) 10 ta</p>
+							<p>Mantiqiy savollar (20 ball) 5 ta savollar</p>
 						</div>
 					</Link>
 					<Link to="/select">
 						<div className="card__description-item card__description-item-3 flex">
 							<box-icon color="#00BBF9" type='solid' name='badge-check'></box-icon>
-							<p>Hisoblash tafakkuri (50 ball) 10 ta savol</p>
+							<p>Hisoblash tafakkuri (50 ball) 5 ta savol</p>
 						</div>
 					</Link>
 					
